@@ -1,25 +1,25 @@
 
 //3
-var firstName = 'Lutiku'
+var firstName = 'Lutiku' ;
 
 //4
-var favouriteColor = 'Black'
+var favouriteColor = 'Black' ;
 
 //5
 
- var city = 'Lubumbashi'
- var country = 'Congo'
+ var city = 'Lubumbashi' ;
+ var country = 'Congo' ;
 
-var favoriteFood = 'Burger'
+var favoriteFood = 'Burger' ;
 
-var city = 'Paris'
+var city = 'Paris' ;
 
 //ceci est un commmentaire
 
 console.log(firstName);
 console.log(favouriteColor);
 console.log(favoriteFood);
-console.log(city)
+console.log(city) ;
 
 //10
 
@@ -49,6 +49,3 @@ function myAlphabetLength(x) {
 
 myAlphabet = ["A", "B", "C"];
 myAlphabetLength(myAlphabet);
-
-
-
